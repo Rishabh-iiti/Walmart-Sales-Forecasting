@@ -1,4 +1,4 @@
-# 📊 Walmart Sales Forecasting – Capstone Project  
+# 📊 Walmart Sales Forecasting 
 
 ## 📝 Project Overview  
 Walmart, one of the largest retail chains in the world, faces challenges in **inventory management** due to unpredictable demand, unemployment rates, seasonal fluctuations, and pricing pressures.  
